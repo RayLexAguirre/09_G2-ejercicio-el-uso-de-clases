@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "La clase Name",
+      "setup": "npm install",
+      "run": "npm run test name.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 28
+    },
+    {
+      "name": "La clase BirthDate",
+      "setup": "",
+      "run": "npm run test birth-date.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 12
+    },
+    {
+      "name": "La clase Student",
+      "setup": "",
+      "run": "npm run test student.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "La clase Attendance",
+      "setup": "",
+      "run": "npm run test attendance.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 24
+    },
+    {
+      "name": "La clase Course",
+      "setup": "",
+      "run": "npm run test course.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 16
+    }
+  ]
+}
